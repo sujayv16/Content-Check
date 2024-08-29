@@ -1,5 +1,5 @@
 # Content Check
-Watch the demo video here: [Demo Video](https:[//your-demo-video-link.com](https://drive.google.com/file/d/1mwT8Y6hl34EnB9v8ksdULaE4uLAKm4x2/view?usp=sharing))
+Watch the demo video here: [Demo Video](https:(https://drive.google.com/file/d/1mwT8Y6hl34EnB9v8ksdULaE4uLAKm4x2/view?usp=sharing))
 ## Overview
 
 **Content Check** is a web application that allows users to paste text and generate a similarity report by comparing the input text against content found on the web. The application utilizes Flask for the backend and provides a user-friendly interface for text input and report generation.

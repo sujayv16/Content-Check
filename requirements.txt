@@ -1,0 +1,6 @@
+beautifulsoup4==4.11.1
+Flask==2.0.3
+nltk==3.6.3
+pandas==1.1.5  # Updated to a compatible version
+pandas_stubs==1.2.0.38
+requests==2.26.0
